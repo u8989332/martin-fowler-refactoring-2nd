@@ -1,6 +1,4 @@
-# martin-fowler-refactoring-2nd Chapter 1 Refactoring: A First Example - RPG Game Hunting Mission
-
-Practice refactoring techniques in the Martin Fowler's Refactoring 2nd edition
+# Chapter 1 Refactoring: A First Example - RPG Game Hunting Mission
 
 Full document of theis practice in my blog article: 
 [[Refactoring] Chapter 1 Refactoring: A First Example - RPG Game Hunting Mission](https://glj8989332.blogspot.com/2021/07/refactoring-2nd-chapter-1.html)
