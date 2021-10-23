@@ -3,7 +3,7 @@
 Practice refactoring techniques in the Martin Fowler's Refactoring 2nd edition
 
 Full document of these practices in my blog articles: 
-[[Refactoring] Chapter 1 Refactoring: A First Example - RPG Game Hunting Mission](https://glj8989332.blogspot.com/2021/07/refactoring-2nd-chapter-1.html)
+[Refactoring: Improving the Design of Existing Code](https://glj8989332.blogspot.com/p/refactoring-improving-design-of.html)
 
 # Contact
 
