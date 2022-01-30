@@ -1,7 +1,7 @@
 # Chapter 6 Refactoring: A First Set of Refactorings
 
 Full document of theis practice in my blog article: 
-[A First Set of Refactorings](todo)
+[A First Set of Refactorings](https://geekcodeparadise.com/2022/01/refactoring-chapter-6-a-first-set-of-refactorings/)
 
 # Contact
 
