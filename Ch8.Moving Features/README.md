@@ -1,7 +1,7 @@
 # Chapter 8 Refactoring: Moving Features
 
 Full document of theis practice in my blog article: 
-[Encapsulation](https://geekcodeparadise.com/2022/03/refactoring-chapter-8-moving-features/)
+[Moving Features](https://geekcodeparadise.com/2022/03/refactoring-chapter-8-moving-features/)
 
 # Contact
 
