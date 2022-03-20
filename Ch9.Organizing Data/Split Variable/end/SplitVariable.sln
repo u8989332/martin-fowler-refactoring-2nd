@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitVariable.Core", "SplitVariable.Core\SplitVariable.Core.csproj", "{1F397071-1AD0-46A1-850E-3C4D65EF7B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitVariable.Tests", "SplitVariable.Tests\SplitVariable.Tests.csproj", "{8CC05848-4CDA-46F3-8EFD-43E8C74F0A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F397071-1AD0-46A1-850E-3C4D65EF7B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F397071-1AD0-46A1-850E-3C4D65EF7B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F397071-1AD0-46A1-850E-3C4D65EF7B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F397071-1AD0-46A1-850E-3C4D65EF7B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC05848-4CDA-46F3-8EFD-43E8C74F0A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC05848-4CDA-46F3-8EFD-43E8C74F0A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC05848-4CDA-46F3-8EFD-43E8C74F0A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC05848-4CDA-46F3-8EFD-43E8C74F0A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41E42F7-66BE-4886-8BE8-713FF333CCEA}
+	EndGlobalSection
+EndGlobal
