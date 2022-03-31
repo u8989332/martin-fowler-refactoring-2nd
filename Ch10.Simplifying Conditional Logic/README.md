@@ -1,7 +1,7 @@
 # Chapter 10 Refactoring: Simplifying Conditional Logic
 
 Full document of theis practice in my blog article: 
-[Simplifying Conditional Logic](https://geekcodeparadise.com/2022/03/refactoring-chapter-10-simplifying-conditional-logic/)
+[Simplifying Conditional Logic](https://geekcodeparadise.com/2022/04/refactoring-chapter-10-simplifying-conditional-logic/)
 
 # Contact
 
